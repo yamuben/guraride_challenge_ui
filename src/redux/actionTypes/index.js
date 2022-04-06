@@ -1,0 +1,3 @@
+export const GET_ALL_DEVICES = "GET_ALL_DEVICES";
+export const CHECK_DEVICE_LOCATION = "CHECK_DEVICE_LOCATION";
+export const LOADING = "LOADING";
